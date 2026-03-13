@@ -4,7 +4,7 @@ p {
 }
 div {
     border: 1px;
-    border-color: #F3E0Ec;
+    border-color: #f1bfdf;
     border-style: solid;
 }
 
@@ -24,11 +24,11 @@ ul li a {
 }
 
 ul li a:hover:not(.active) {
-  background-color: #F3E0Ec;
+  background-color: #f1bfdf;
 }
 
 ul li a.active {
-  background-color: #F3E0Ec;
+  background-color: #f1bfdf;
 }
 
 .unelmalomalle {
@@ -55,7 +55,7 @@ ul li a.active {
 header h1 {
     font-size: 80px;
     text-align: center;
-    color: #F3E0Ec;
+    color: white;
     padding: 150px 10px 150px 10px;
 
 }
@@ -67,7 +67,7 @@ section {
 }
 
 footer {
-    background-color: #F3E0Ec;
+    background-color: #f1bfdf;
     margin-top: 40px;
     
 }
