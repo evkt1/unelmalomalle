@@ -1,0 +1,81 @@
+p {
+    color: #F3E0Ec;
+
+}
+div {
+    border: 1px;
+    border-color: #F3E0Ec;
+    border-style: solid;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #8d8d89;
+  display: flex;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover:not(.active) {
+  background-color: #F3E0Ec;
+}
+
+ul li a.active {
+  background-color: #F3E0Ec;
+}
+
+.unelmalomalle {
+    background-image: url(webbikuva.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+
+.services {
+    background-image: url(webbikuva2.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+
+.about {
+    background-image: url(webbikuva3.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+
+header h1 {
+    font-size: 80px;
+    text-align: center;
+    color: #F3E0Ec;
+    padding: 150px 10px 150px 10px;
+
+}
+section {
+    width: 90%;
+    margin: auto;
+    font-size: 18px;
+
+}
+
+footer {
+    background-color: #F3E0Ec;
+    margin-top: 40px;
+    
+}
+
+footer p {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 0px;
+
+}
